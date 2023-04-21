@@ -32,6 +32,7 @@
   <img align="center" alt="blender" src="https://img.shields.io/badge/Blender-303542?style=for-the-badge&logo=blender&logoColor=c8fb61" />
  <img align="center" alt="photoshop" src="https://img.shields.io/badge/Photoshop-282d38?style=for-the-badge&logo=adobe&logoColor=61DAFB" />
  <img align="center" alt="vegas" src="https://img.shields.io/badge/Vegas_Pro-282A38?style=for-the-badge&logo=sony&logoColor=61DAFB" />
+ <img align="center" alt="audacity" src="https://img.shields.io/badge/Audacity-282A28?style=for-the-badge&logo=audacity&logoColor=61DAFB" />
   
 </div><br/>   👯🌱  
  
