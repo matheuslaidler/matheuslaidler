@@ -25,10 +25,10 @@
   <img align="center" alt="sh" src="https://img.shields.io/badge/shell_script-28bf94?style=for-the-badge&logo=linux&logoColor=white" />
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=61DAFB" />
   <img align="center" alt="c/c++" src="https://img.shields.io/badge/C/C++-2864bf?style=for-the-badge&logo=c&logoColor=white" />
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img align="center" alt="css" src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img align="center" alt="unreal" src="https://img.shields.io/badge/UE_GameDev-282d38?style=for-the-badge&logo=unrealengine&logoColor=61DAFB" />
+  <img align="center" alt="unreal" src="https://img.shields.io/badge/Unreal-282d38?style=for-the-badge&logo=unrealengine&logoColor=61DAFB" />
   <img align="center" alt="blender" src="https://img.shields.io/badge/Blender-303542?style=for-the-badge&logo=blender&logoColor=c8fb61" />
  <img align="center" alt="photoshop" src="https://img.shields.io/badge/Photoshop-282d38?style=for-the-badge&logo=adobe&logoColor=61DAFB" />
  <img align="center" alt="vegas" src="https://img.shields.io/badge/Vegas_Pro-282A38?style=for-the-badge&logo=sony&logoColor=61DAFB" />
@@ -36,6 +36,7 @@
   
 </div><br/>   👯🌱  
  
-  - Como entusiasta de diversas áreas da tecnologia da informação, especialmente a cyber security, estou sempre em busca de novos desafios e oportunidades para aprimorar minhas habilidades e conhecimentos. Como um eterno aprendiz, estou constantemente buscando desenvolver-me tanto na minha carreira quanto na vida pessoal. Minha paixão pelo aprendizado abrange desde a área acadêmica até a própria arte de viver, sempre com o objetivo de crescer e melhorar em todos os aspectos da minha vida. Além disso, busco contribuir para o bem social, buscando tornar-me uma pessoa melhor e mais consciente de como posso fazer a diferença no mundo.
- 
   - As a technology enthusiast, I'm particularly passionate about cybersecurity and continuously seek new challenges and opportunities to improve my skills and knowledge. I'm an eternal learner, always striving to develop myself both professionally and personally. Whether it's through academia or the art of living, my goal is to grow and improve in every aspect of my life. Additionally, I'm committed to making a positive impact in the world and strive to become a more conscientious person, constantly exploring ways to contribute to the greater good.
+ 
+  - Como entusiasta de diversas áreas da tecnologia da informação, especialmente a cyber security, estou sempre em busca de novos desafios e oportunidades para aprimorar minhas habilidades e conhecimentos. Como um eterno aprendiz, estou constantemente buscando desenvolver-me tanto na minha carreira quanto na vida pessoal. Minha paixão pelo aprendizado abrange desde a área acadêmica até a própria arte de viver, sempre com o objetivo de crescer e melhorar em todos os aspectos da minha vida. Além disso, busco contribuir para o bem social, buscando tornar-me uma pessoa melhor e mais consciente de como posso fazer a diferença no mundo.
+
