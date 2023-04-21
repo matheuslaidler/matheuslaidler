@@ -22,7 +22,7 @@
 
 <div style="display: inline_block">
   <img align="center" alt="hacking" src="https://img.shields.io/badge/<>-hacking-43E3FD?style=for-the-badge&logoColor=black" />
-  <img align="center" alt="sh" src="https://img.shields.io/badge/shellscript-28bf94?style=for-the-badge&logo=linux&logoColor=white" />
+  <img align="center" alt="sh" src="https://img.shields.io/badge/shell_script-28bf94?style=for-the-badge&logo=linux&logoColor=white" />
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=61DAFB" />
   <img align="center" alt="c/c++" src="https://img.shields.io/badge/C/C++-2864bf?style=for-the-badge&logo=c&logoColor=white" />
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -30,6 +30,8 @@
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img align="center" alt="unreal" src="https://img.shields.io/badge/UE_GameDev-282d38?style=for-the-badge&logo=unrealengine&logoColor=61DAFB" />
   <img align="center" alt="blender" src="https://img.shields.io/badge/Blender-303542?style=for-the-badge&logo=blender&logoColor=c8fb61" />
+ <img align="center" alt="photoshop" src="https://img.shields.io/badge/Photoshop-282d38?style=for-the-badge&logo=adobe&logoColor=61DAFB" />
+ <img align="center" alt="vegas" src="https://img.shields.io/badge/Vegas_Pro-282A38?style=for-the-badge&logo=sony&logoColor=61DAFB" />
   
 </div><br/>   👯🌱  
  
