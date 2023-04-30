@@ -1,6 +1,6 @@
 ### Hi, I'm Matheus 👋 😄
 
- ⚡  Cyber Security enthusiast & developer ⚡
+ ⚡  Cyber Security enthusiast & developer 
  
 [![Blog](https://img.shields.io/website?label=github+pages&style=for-the-badge&url=https://matheuslaidler.github.io/)](https://matheuslaidler.github.io/)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@matheuslaidler)
