@@ -6,6 +6,7 @@
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@matheuslaidler)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/matheuslaidler)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laidlervidal)
+[![Blog](https://img.shields.io/website?label=gitbook+Articles&style=for-the-badge&url=https://matheuslaidler.gitbook.io/home/)](https://matheuslaidler.gitbook.io/)
   
 <div align="left">
   <a href="https://github.com/matheuslaidler">
