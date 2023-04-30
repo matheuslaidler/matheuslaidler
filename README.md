@@ -41,3 +41,18 @@
  
   - Como entusiasta de diversas áreas da tecnologia da informação, especialmente a cyber security, estou sempre em busca de novos desafios e oportunidades para aprimorar minhas habilidades e conhecimentos. Como um eterno aprendiz, estou constantemente buscando desenvolver-me tanto na minha carreira quanto na vida pessoal. Minha paixão pelo aprendizado abrange desde a área acadêmica até a própria arte de viver, sempre com o objetivo de crescer e melhorar em todos os aspectos da minha vida. Além disso, busco contribuir para o bem social, buscando tornar-me uma pessoa melhor e mais consciente de como posso fazer a diferença no mundo.
 
+ ## ✨ My Articles [PROJECT PT-BR]
+ 
+ Meus artigos e publicações gerais sobre TI (read2tech) e hacking (wayofsec + seclab) separados nestas categorias.
+ Trabalho voluntário e pessoal de Divulgação Científica com finalidade acadêmica
+  
+ > Projeto de divulgação sem fins lucrativos sobre tecnologia em geral, como redes de computadores e programação.
+ -  [![Blog](https://img.shields.io/website?label=Road2Tech&style=for-the-badge&url=https://matheuslaidler.gitbook.io/)](https://matheuslaidler.gitbook.io/road2tech)
+
+ > Projeto de divulgação sem fins lucrativos sobre tecnologia com total foco em segurança da informação, como hacking e writeups.
+ -  [![Blog](https://img.shields.io/website?label=WayOfSec&style=for-the-badge&url=https://matheuslaidler.gitbook.io/)](https://matheuslaidler.gitbook.io/wayofsec)
+
+ > Projeto de divulgação sem fins lucrativos sobre tecnologia em segurança, com testes práticos e reviews de ferramentas.
+ -  [![Blog](https://img.shields.io/website?label=SecLab&style=for-the-badge&url=https://matheuslaidler.gitbook.io/)](https://matheuslaidler.gitbook.io/seclab)
+
+ 
