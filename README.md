@@ -10,8 +10,8 @@
   
 <div align="left">
   <a href="https://github.com/matheuslaidler">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=matheuslaidler&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuslaidler&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=matheuslaidler&show_icons=true&theme=dracula&include_all_commits=false&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuslaidler&layout=compact&langs_count=8&theme=dracula"/>
 </div>
 <div align="center">
   <img align="left" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
