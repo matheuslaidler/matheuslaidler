@@ -47,12 +47,12 @@
  Trabalho voluntário e pessoal de Divulgação Científica com finalidade acadêmica
   
  > Projeto de divulgação sem fins lucrativos sobre tecnologia em geral, como redes de computadores e programação.
- -  [![Blog](https://img.shields.io/website?label=Road2Tech&style=for-the-badge&url=https://matheuslaidler.gitbook.io/)](https://matheuslaidler.gitbook.io/road2tech)
+ -  [![Blog](https://img.shields.io/website?label=Road2Tech&style=for-the-badge&url=https://matheuslaidler.gitbook.io/)](https://matheuslaidler.gitbook.io/acervo/welcome/r2t-project)
 
  > Projeto de divulgação sem fins lucrativos sobre tecnologia com total foco em segurança da informação, como hacking e writeups.
- -  [![Blog](https://img.shields.io/website?label=WayOfSec&style=for-the-badge&url=https://matheuslaidler.gitbook.io/)](https://matheuslaidler.gitbook.io/wayofsec)
+ -  [![Blog](https://img.shields.io/website?label=WayOfSec&style=for-the-badge&url=https://matheuslaidler.gitbook.io/)](https://matheuslaidler.gitbook.io/acervo/welcome/w0s-project)
 
  > Projeto de divulgação sem fins lucrativos sobre tecnologia em segurança, com testes práticos e reviews de ferramentas.
- -  [![Blog](https://img.shields.io/website?label=SecLab&style=for-the-badge&url=https://matheuslaidler.gitbook.io/)](https://matheuslaidler.gitbook.io/seclab)
+ -  [![Blog](https://img.shields.io/website?label=SecLab&style=for-the-badge&url=https://matheuslaidler.gitbook.io/)](https://matheuslaidler.gitbook.io/acervo/wayofsec/seclab)
 
  
