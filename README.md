@@ -6,7 +6,7 @@
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@matheuslaidler)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/matheuslaidler)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laidlervidal)
-[![Blog](https://img.shields.io/website?label=gitbook+Articles&style=for-the-badge&url=https://matheuslaidler.gitbook.io/home/)](https://matheuslaidler.gitbook.io/)
+[![Blog](https://img.shields.io/website?label=gitbook+Draft+Articles&style=for-the-badge&url=https://matheuslaidler.gitbook.io/home/)](https://matheuslaidler.gitbook.io/)
   
 <div align="left">
   <a href="https://github.com/matheuslaidler">
@@ -47,12 +47,15 @@
  Trabalho voluntário e pessoal de Divulgação Científica com finalidade acadêmica
   
  > Projeto de divulgação sem fins lucrativos sobre tecnologia em geral, como redes de computadores e programação.
- -  [![Blog](https://img.shields.io/website?label=Road2Tech&style=for-the-badge&url=https://matheuslaidler.gitbook.io/)](https://matheuslaidler.gitbook.io/acervo/welcome/r2t-project)
+ -  [![Blog](https://img.shields.io/website?label=Road2Tech&style=for-the-badge&url=https://road2tech.github.io/)](https://road2tech.github.io)
+ -  [![Blog](https://img.shields.io/website?label=Road2Tech+Drafts&style=for-the-badge&url=https://matheuslaidler.gitbook.io/)](https://matheuslaidler.gitbook.io/acervo/welcome/r2t-project)
 
  > Projeto de divulgação sem fins lucrativos sobre tecnologia com total foco em segurança da informação, como hacking e writeups.
- -  [![Blog](https://img.shields.io/website?label=WayOfSec&style=for-the-badge&url=https://matheuslaidler.gitbook.io/)](https://matheuslaidler.gitbook.io/acervo/welcome/w0s-project)
+ -  [![Blog](https://img.shields.io/website?label=WayOfSec&style=for-the-badge&url=https://wayofsec.github.io/)](https://wayofsec.github.io)
+ -  [![Blog](https://img.shields.io/website?label=WayOfSec+Drafts&style=for-the-badge&url=https://matheuslaidler.gitbook.io/)](https://matheuslaidler.gitbook.io/acervo/welcome/w0s-project)
 
  > Projeto de divulgação sem fins lucrativos sobre tecnologia em segurança, com testes práticos e reviews de ferramentas.
- -  [![Blog](https://img.shields.io/website?label=SecLab&style=for-the-badge&url=https://matheuslaidler.gitbook.io/)](https://matheuslaidler.gitbook.io/acervo/wayofsec/seclab)
+ -  [![Blog](https://img.shields.io/website?label=SecLab+Videos&style=for-the-badge&url=https://youtube.com/playlist?list=PLPnANif8KhzWzGmHPEn0nKzK5Yk_wYRLi)](https://youtube.com/playlist?list=PLPnANif8KhzWzGmHPEn0nKzK5Yk_wYRLi)
+ -  [![Blog](https://img.shields.io/website?label=SecLab+Drafts&style=for-the-badge&url=https://youtube.com/@matheuslaidler)](https://matheuslaidler.gitbook.io/acervo/wayofsec/seclab)
 
  
