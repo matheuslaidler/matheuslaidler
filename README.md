@@ -6,7 +6,7 @@
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@matheuslaidler)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/matheuslaidler)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laidlervidal)
-[![Blog](https://img.shields.io/website?label=gitbook+Draft+Articles&style=for-the-badge&url=https://matheuslaidler.gitbook.io/home/)](https://matheuslaidler.gitbook.io/)
+<!-- [![Drafts](https://img.shields.io/website?label=gitbook+Draft+Articles&style=for-the-badge&url=https://matheuslaidler.gitbook.io/home/)](https://matheuslaidler.gitbook.io/) -->
   
 <div align="left">
   <a href="https://github.com/matheuslaidler">
@@ -35,27 +35,24 @@
  <img align="center" alt="vegas" src="https://img.shields.io/badge/Vegas_Pro-282A38?style=for-the-badge&logo=sony&logoColor=61DAFB" />
  <img align="center" alt="audacity" src="https://img.shields.io/badge/Audacity-282A28?style=for-the-badge&logo=audacity&logoColor=61DAFB" />
   
-</div><br/>   👯🌱  
+</div><br/>    
  
   - As a technology enthusiast, I'm particularly passionate about cybersecurity and continuously seek new challenges and opportunities to improve my skills and knowledge. I'm an eternal learner, always striving to develop myself both professionally and personally. Whether it's through academia or the art of living, my goal is to grow and improve in every aspect of my life. Additionally, I'm committed to making a positive impact in the world and strive to become a more conscientious person, constantly exploring ways to contribute to the greater good.
  
   - Como entusiasta de diversas áreas da tecnologia da informação, especialmente a cyber security, estou sempre em busca de novos desafios e oportunidades para aprimorar minhas habilidades e conhecimentos. Como um eterno aprendiz, estou constantemente buscando desenvolver-me tanto na minha carreira quanto na vida pessoal. Minha paixão pelo aprendizado abrange desde a área acadêmica até a própria arte de viver, sempre com o objetivo de crescer e melhorar em todos os aspectos da minha vida. Além disso, busco contribuir para o bem social, buscando tornar-me uma pessoa melhor e mais consciente de como posso fazer a diferença no mundo.
 
- ## ✨ My Articles [PROJECT PT-BR]
+ ## ✨ My Articles [PROJECT PT-BR](https://matheuslaidler.github.io/)
  
- Meus artigos e publicações gerais sobre TI (read2tech) e hacking (wayofsec + seclab) separados nestas categorias.
+ Meus artigos e publicações gerais como um blog pessoal em que compartilho os documentos que faço enquanto estudo
  Trabalho voluntário e pessoal de Divulgação Científica com finalidade acadêmica
   
- > Projeto de divulgação sem fins lucrativos sobre tecnologia em geral, como redes de computadores e programação.
- -  [![Blog](https://img.shields.io/website?label=Road2Tech&style=for-the-badge&url=https://road2tech.github.io/)](https://road2tech.github.io)
- -  [![Blog](https://img.shields.io/website?label=Road2Tech+Drafts&style=for-the-badge&url=https://matheuslaidler.gitbook.io/)](https://matheuslaidler.gitbook.io/acervo/welcome/r2t-project)
+ > Projeto de divulgação sem fins lucrativos sobre tecnologia e segurança da informação [github pages acima]
+ -  [![Blog](https://img.shields.io/website?label=Project+ReadMe&style=for-the-badge&url=https://github.com/matheuslaidler/matheuslaidler.github.io/blob/main/README.md)](https://github.com/matheuslaidler/matheuslaidler.github.io/blob/main/README.md)
 
- > Projeto de divulgação sem fins lucrativos sobre tecnologia com total foco em segurança da informação, como hacking e writeups.
- -  [![Blog](https://img.shields.io/website?label=WayOfSec&style=for-the-badge&url=https://wayofsec.github.io/)](https://wayofsec.github.io)
- -  [![Blog](https://img.shields.io/website?label=WayOfSec+Drafts&style=for-the-badge&url=https://matheuslaidler.gitbook.io/)](https://matheuslaidler.gitbook.io/acervo/welcome/w0s-project)
+ > Rascunhos de documentos para o projeto
+ -  [![Blog](https://img.shields.io/website?label=Drafts+Page&style=for-the-badge&url=https://matheuslaidler.gitbook.io/)](https://matheuslaidler.gitbook.io/)
 
- > Projeto de divulgação sem fins lucrativos sobre tecnologia em segurança, com testes práticos e reviews de ferramentas.
- -  [![Blog](https://img.shields.io/website?label=SecLab+Videos&style=for-the-badge&url=https://youtube.com/playlist?list=PLPnANif8KhzWzGmHPEn0nKzK5Yk_wYRLi)](https://youtube.com/playlist?list=PLPnANif8KhzWzGmHPEn0nKzK5Yk_wYRLi)
- -  [![Blog](https://img.shields.io/website?label=SecLab+Drafts&style=for-the-badge&url=https://youtube.com/@matheuslaidler)](https://matheuslaidler.gitbook.io/acervo/wayofsec/seclab)
+ > Projeto audio-visual com testes práticos
+ -  [![Blog](https://img.shields.io/website?label=Youtube+Channel&style=for-the-badge&url=https://youtube.com/playlist?list=PLPnANif8KhzWzGmHPEn0nKzK5Yk_wYRLi)](https://youtube.com/playlist?list=PLPnANif8KhzWzGmHPEn0nKzK5Yk_wYRLi)
 
  
