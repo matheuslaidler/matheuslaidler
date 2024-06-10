@@ -10,13 +10,17 @@
   
 <div align="left">
   <a href="https://github.com/matheuslaidler">
-  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=matheuslaidler&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=matheuslaidler&layout=compact&langs_count=8&theme=dracula"/>
+  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=matheuslaidler&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=matheuslaidler&layout=compact&langs_count=8&theme=blue-green&hide_border=true"/>
 </div>
 <div align="center">
   <img align="left" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
   <img alt="python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img alt="c" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+ </div>
+ <div align="left">
+  <img height="165em" src = "https://github-readme-streak-stats.herokuapp.com?user=matheuslaidler&theme=blue-green&hide_border=true" >
+  
  </div>
  
 ## ✨ About me and my Skills 
@@ -31,9 +35,9 @@
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img align="center" alt="unreal" src="https://img.shields.io/badge/Unreal-282d38?style=for-the-badge&logo=unrealengine&logoColor=61DAFB" />
   <img align="center" alt="blender" src="https://img.shields.io/badge/Blender-303542?style=for-the-badge&logo=blender&logoColor=c8fb61" />
- <img align="center" alt="photoshop" src="https://img.shields.io/badge/Photoshop-282d38?style=for-the-badge&logo=adobe&logoColor=61DAFB" />
- <img align="center" alt="vegas" src="https://img.shields.io/badge/Vegas_Pro-282A38?style=for-the-badge&logo=sony&logoColor=61DAFB" />
- <img align="center" alt="audacity" src="https://img.shields.io/badge/Audacity-282A28?style=for-the-badge&logo=audacity&logoColor=61DAFB" />
+  <img align="center" alt="photoshop" src="https://img.shields.io/badge/Photoshop-282d38?style=for-the-badge&logo=adobe&logoColor=61DAFB" />
+  <img align="center" alt="vegas" src="https://img.shields.io/badge/Vegas_Pro-282A38?style=for-the-badge&logo=sony&logoColor=61DAFB" />
+  <img align="center" alt="audacity" src="https://img.shields.io/badge/Audacity-282A28?style=for-the-badge&logo=audacity&logoColor=61DAFB" />
   
 </div><br/>    
  
