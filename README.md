@@ -10,8 +10,8 @@
   
 <div align="left">
   <a href="https://github.com/matheuslaidler">
-  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=matheuslaidler&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=matheuslaidler&layout=compact&langs_count=8&theme=blue-green&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=matheuslaidler&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=matheuslaidler&layout=compact&langs_count=8&theme=blue-green&hide_border=true"/>
 </div>
 <div align="center">
   <img align="left" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
@@ -19,7 +19,7 @@
   <img alt="c" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
  </div>
  <div align="left">
-  <img height="165em" src = "https://github-readme-streak-stats.herokuapp.com?user=matheuslaidler&theme=blue-green&hide_border=true" >
+  <img height="160em" src = "https://github-readme-streak-stats.herokuapp.com?user=matheuslaidler&theme=blue-green&hide_border=true" >
   
  </div>
  
