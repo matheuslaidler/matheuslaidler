@@ -1,12 +1,12 @@
-### Hi, I'm Matthew 👋 😄
+### Hi, I'm MLaidler 👋 😄
 
- ⚡  Cyber Security enthusiast & developer 
+ ⚡  Cyber Security enthusiast & developer
+ > entusiasta de cibersegurança, desenvolvedor iniciante e eterno aprendiz
  
 [![Blog](https://img.shields.io/website?label=github+pages&style=for-the-badge&url=https://matheuslaidler.github.io/)](https://matheuslaidler.github.io/)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@matheuslaidler)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/matheuslaidler)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laidlervidal)
-<!-- [![Drafts](https://img.shields.io/website?label=gitbook+Draft+Articles&style=for-the-badge&url=https://matheuslaidler.gitbook.io/home/)](https://matheuslaidler.gitbook.io/) -->
   
 <div align="left">
   <a href="https://github.com/matheuslaidler">
@@ -41,22 +41,30 @@
   
 </div><br/>    
  
-  - As a technology enthusiast, I'm particularly passionate about cybersecurity and continuously seek new challenges and opportunities to improve my skills and knowledge. I'm an eternal learner, always striving to develop myself both professionally and personally. Whether it's through academia or the art of living, my goal is to grow and improve in every aspect of my life. Additionally, I'm committed to making a positive impact in the world and strive to become a more conscientious person, constantly exploring ways to contribute to the greater good.
- 
-  - Como entusiasta de diversas áreas da tecnologia da informação, especialmente a cyber security, estou sempre em busca de novos desafios e oportunidades para aprimorar minhas habilidades e conhecimentos. Como um eterno aprendiz, estou constantemente buscando desenvolver-me tanto na minha carreira quanto na vida pessoal. Minha paixão pelo aprendizado abrange desde a área acadêmica até a própria arte de viver, sempre com o objetivo de crescer e melhorar em todos os aspectos da minha vida. Além disso, busco contribuir para o bem social, buscando tornar-me uma pessoa melhor e mais consciente de como posso fazer a diferença no mundo.
+  - As a technology enthusiast, I'm particularly passionate about cybersecurity and continuously seek new challenges and opportunities to improve my skills and knowledge. I'm just an ordinary guy who loves cybersecurity and develops my own things. Developing a game, website, or just a functional script is kind of enjoyable, right?!
 
  ## ✨ My Articles [PROJECT PT-BR](https://matheuslaidler.github.io/)
  
- Meus artigos e publicações gerais como um blog pessoal em que compartilho os documentos que faço enquanto estudo
- Trabalho voluntário e pessoal de Divulgação Científica com finalidade acadêmica
+My articles and general publications, like a personal blog where I share the documents I create while studying
+
+Meus artigos e publicações gerais como um blog pessoal em que compartilho os documentos que faço enquanto estudo
+
   
  > Projeto de divulgação sem fins lucrativos sobre tecnologia e segurança da informação [github pages acima]
+ 
+ > Non-profit technology and information security awareness project [readme / page button above]
  -  [![Blog](https://img.shields.io/website?label=Project+ReadMe&style=for-the-badge&url=https://github.com/matheuslaidler/matheuslaidler.github.io/blob/main/README.md)](https://github.com/matheuslaidler/matheuslaidler.github.io/blob/main/README.md)
 
+
  > Rascunhos de documentos para o projeto
+ 
+ > Drafts of documents for the project
  -  [![Blog](https://img.shields.io/website?label=Drafts+Page&style=for-the-badge&url=https://matheuslaidler.gitbook.io/)](https://matheuslaidler.gitbook.io/)
 
+
  > Projeto audio-visual com testes práticos
+ 
+ > Audio-visual project with practical tests
  -  [![Blog](https://img.shields.io/website?label=Youtube+Channel&style=for-the-badge&url=https://youtube.com/playlist?list=PLPnANif8KhzWzGmHPEn0nKzK5Yk_wYRLi)](https://youtube.com/playlist?list=PLPnANif8KhzWzGmHPEn0nKzK5Yk_wYRLi)
 
  
