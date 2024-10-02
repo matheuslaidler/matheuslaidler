@@ -20,9 +20,12 @@
  </div>
  <div align="left">
   <img height="160em" src = "https://github-readme-streak-stats.herokuapp.com?user=matheuslaidler&theme=blue-green&hide_border=true" >
-  
  </div>
- 
+ <div align="center">
+ <img src="https://github-profile-trophy.vercel.app/?username=matheuslaidler&theme=algolia&no-frame=true&row=1&&margin-w=30&no-bg=true">
+ </div>
+
+   
 ## ✨ About me and my Skills 
 
 <div style="display: inline_block">
