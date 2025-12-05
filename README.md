@@ -14,9 +14,11 @@
   <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=matheuslaidler&layout=compact&langs_count=8&theme=blue-green&hide_border=true"/>
 </div>
 <div align="center">
+ <!--
   <img align="left" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
   <img alt="python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img alt="c" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+ -->
  </div>
  <div align="left">
   <img height="160em" src = "https://github-readme-streak-stats.herokuapp.com?user=matheuslaidler&theme=blue-green&hide_border=true" >
@@ -44,14 +46,6 @@
   
 </div><br/>    
  
-  - As a technology enthusiast and Full-Stack Developer with a degree in Information Security, I'm particularly passionate about cybersecurity and continuously seek new challenges and opportunities to improve my skills and knowledge. I'm just an ordinary guy who loves cybersecurity and develops my own things. Developing a game, website, or just a functional script is kind of enjoyable, right?!
-
- ## ✨ My Articles [PT-BR: Acervo de TI](https://matheuslaidler.github.io/)
- 
-My articles and general publications, like a personal blog where I share the documents I create in my own language while studying
--  [![Blog](https://img.shields.io/website?label=Project+ReadMe&style=for-the-badge&url=https://github.com/matheuslaidler/matheuslaidler.github.io/blob/main/README.md)](https://github.com/matheuslaidler/matheuslaidler.github.io/blob/main/README.md)
-  
- Audio-visual project with practical tests
- -  [![Blog](https://img.shields.io/website?label=Youtube+Channel&style=for-the-badge&url=https://youtube.com/playlist?list=PLPnANif8KhzWzGmHPEn0nKzK5Yk_wYRLi)](https://youtube.com/playlist?list=PLPnANif8KhzWzGmHPEn0nKzK5Yk_wYRLi)
+  - As a technology enthusiast and Full-Stack Developer with a degree in Information Security, I'm particularly passionate about cybersecurity and continuously seek new challenges and opportunities to improve my skills and knowledge. I'm just an ordinary guy who loves cybersecurity and develops my own things. Developing a game, website, or just a functional script is kind of enjoyable, right?
 
  
