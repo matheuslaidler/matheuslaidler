@@ -1,4 +1,4 @@
-### Hi, I'm MLaidler 👋 😄
+### Hi, I'm Math. Laidler 👋 😄
 
  ⚡ Information Security Graduate and Full-Stack Developer 
  > Cyber Security enthusiast
@@ -7,19 +7,13 @@
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@matheuslaidler)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/matheuslaidler)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laidlervidal)
+ ![](https://komarev.com/ghpvc/?username=matheuslaidler&color=00e2ed&style=for-the-badge)
   
 <div align="left">
   <a href="https://github.com/matheuslaidler">
   <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=matheuslaidler&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true&hide_border=true"/>
   <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=matheuslaidler&layout=compact&langs_count=8&theme=blue-green&hide_border=true"/>
 </div>
-<div align="center">
- <!--
-  <img align="left" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-  <img alt="python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img alt="c" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
- -->
- </div>
  <div align="left">
   <img height="160em" src = "https://github-readme-streak-stats.herokuapp.com?user=matheuslaidler&theme=blue-green&hide_border=true" >
  </div>
@@ -38,6 +32,7 @@
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img align="center" alt="css" src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img align="center" alt="php" src="https://img.shields.io/badge/PHP-2864bf?style=for-the-badge&logo=php&logoColor=white" />
   <img align="center" alt="unreal" src="https://img.shields.io/badge/Unreal-282d38?style=for-the-badge&logo=unrealengine&logoColor=61DAFB" />
   <img align="center" alt="blender" src="https://img.shields.io/badge/Blender-303542?style=for-the-badge&logo=blender&logoColor=c8fb61" />
   <img align="center" alt="photoshop" src="https://img.shields.io/badge/Photoshop-282d38?style=for-the-badge&logo=adobe&logoColor=61DAFB" />
